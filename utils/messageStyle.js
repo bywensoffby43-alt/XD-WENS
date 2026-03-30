@@ -7,7 +7,7 @@ export default function stylizedCardMessage(text) {
     contextInfo: {
       externalAdReply: {
         title: "XD WENS",
-        body: "𓆩 XD WENS  𓆪",
+        body: "𓆩 XD WENS 𓆪",
         thumbnail: fs.readFileSync("./database/DigiX.jpg"),
         sourceUrl: "https://whatsapp.com",
         mediaType: 1,
